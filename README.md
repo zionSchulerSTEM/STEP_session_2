@@ -15,6 +15,16 @@ $$\textbf{Polynomials}$$
 $$f(x) = x^2$$
 $$f(x) = 5x^3 - 9x^2 + 12$$
 $$f(x) = a_nx^n + a_{n-1}x^{n-1} + a_{n-2}x^{n-2} ... + a_2x^2 + a_1x^1 + a_0x^0$$
+$$\textbf{Trigonometric}$$
+$$f(x) = cos(x)$$
+$$f(x) = 12tan(x) - 6csc(7x) + 3$$
+$$\textbf{Exponential and Logarithmic}$$
+$$f(x) = e^x$$
+$$f(x) = log(x)$$
+$$f(x) = 8e^{9x}$$
+$$f(x) = -5log(7x)$$
+
+
 
 ### Binary Operators
 
