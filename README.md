@@ -6,7 +6,7 @@ The goal of this session is to give you all a big picture view of what algebra a
 
 ### Functions
 In its most general sense, a function is a mapping of one collection of objects to another collection of objects. Typically, the collection of objects in interest are numbers, and the way we map one set of numbers to another set of numbers usually follows some rule that might be specified in either words or symbols. It is typically ideal to specify a function in symbols since it is more difficult to confuse what one means in mathematical symbols than it is to confuse the meaning of words. However, most real world / interesting problems require astute mathematicians to translate a problem from words into symbols that can be manipulated in ways that allow us to make interesting observations about the problem. An example of a function that we might specify using words would be "the kinetic energy of a moving object is proportional to the square of the velocity of the object". In symbols, this would be 
-$$ E \propto v^2 $$
+$$E \propto v^2$$
 #### Analytic Functions
 
 ### Binary Operators
