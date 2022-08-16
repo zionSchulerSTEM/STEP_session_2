@@ -10,7 +10,11 @@ $$E \propto v^2$$
 The little squiggly symbol in the middle of the letters means "is proportional to". Not only is the symbolic, mathematical way of writing the function smaller (it takes less characters to write the same idea), but it is also in a form that is ready for manipulation. It is very easy to make mistakes when translating from words to mathematical symbols, so I would advise you all to be patient and careful when translating words to symbols to ensure that a trivial (yet understandable) mistake occurs early in the process and invalidates all of the quality work you do afterwords (and often leaves you with a flat out incorrect answer). 
 
 #### Analytic Functions
-There are truly lots of different types of functions out there. At this point in your mathematical careers, however, the primary focus of your attention is centered around a small group of "analytic functions". Analytic function has a precise definition, but for now you can think of them as the functions that you can draw on a graph without lifting up your pencil. These functions are the polynomials, the trig functions (like cosine, sine, cosecant, etc), exponential functions, and logarithmic functions.  
+There are truly lots of different types of functions out there. At this point in your mathematical careers, however, the primary focus of your attention is centered around a small group of "analytic functions". Analytic function has a precise definition, but for now you can think of them as the functions that you can draw on a graph without lifting up your pencil. These functions are the polynomials, the trig functions (like cosine, sine, cosecant, etc), exponential functions, and logarithmic functions. Symbolically, 
+$$\textbf{Polynomials}$$
+$$f(x) = x^2$$
+$$f(x) = 5x^3 - 9x^2 + 12$$
+$$f(x) = a_nx^n + a_{n-1}x^{n-1} + a_{n-2}x^{n-2} ... + a_2x^2 + a_1x^1 + a_0x^0$$
 
 ### Binary Operators
 
