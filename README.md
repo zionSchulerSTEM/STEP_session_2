@@ -33,6 +33,14 @@ Binary operators are those little symbols that you usually see in between number
 The interesting thing about addition and subtraction is that in a very abstract sense, the represent a way of "undoing" each other. If you have 2 bricks and add 3 bricks, then you have 5 bricks. If you now subtract 3 bricks from the 5 bricks you now have, you are left with 2 bricks (what you started with). 
 ### Graphs
 
+![](img/quadratic.jpg)
+
+![](img/cos.jpg)
+
+![](img/exponential.jpg)
+
+![](img/log.jpg)
+
 ## Geometry
 
 ## Algebra
