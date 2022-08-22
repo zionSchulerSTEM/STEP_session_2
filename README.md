@@ -32,6 +32,7 @@ Binary operators are those little symbols that you usually see in between number
 
 The interesting thing about addition and subtraction is that in a very abstract sense, the represent a way of "undoing" each other. If you have 2 bricks and add 3 bricks, then you have 5 bricks. If you now subtract 3 bricks from the 5 bricks you now have, you are left with 2 bricks (what you started with). 
 ### Graphs
+Graphs are a means of visualizing functions. By looking at a graph, we can often times observe trends and interesting points for observation (like minimum or maximum values). We can also graph two functions on the same plot and observe things like how functions grow relative to each other, where different functions have different (or the same) minimum/maximum values, etc. Pictured below are the small set of analytic functions mentioned earlier. These graphs were generated with the python file in the code directory. Feel free to look at the code, make changes (dont worry you wont break it), and try to run the code after you make changes.  
 
 ![](img/quadratic.png)
 
@@ -40,6 +41,10 @@ The interesting thing about addition and subtraction is that in a very abstract 
 ![](img/exp.png)
 
 ![](img/log.png)
+
+A graph is simply an intersection of perpendicular axes. A graph should ALMOST ALWAYS be labeled, unless it is SELF_EVIDENT to the audience (whom you are presenting the graph to) what the axes are. Typically, people like to use x as a variable and y=f(x) as the value of a function given a certain value. The x-axis is usually reserved for the independent variable, x, while the y-axis is usually reserved for the dependent variable, y=f(x). Hopefully you can see why the axes are named as such. 
+
+![](img/axes.png)
 
 ## Geometry
 
