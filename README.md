@@ -74,4 +74,8 @@ Calculus is chiefly concerned with using the local behaviour of a function in or
 
 ![](img/fundamentalCalc.jpg)
 
+In my opinion, 3blue1brown does a great job of providing a quality visual intuition as to why the fundamental theorem of calculus is true. The content from his channel is generally amazing and full of visualizations and geometric proofs of important concepts in math. 
+
+
 ## References / Resources
+**Calculus** by Michael Spivak (the foundations section in particular)
