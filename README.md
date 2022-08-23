@@ -65,7 +65,7 @@ Geometry is chiefly concerned with the points, lines, angles, distances, and the
 ## Algebra
 
 Algebra is chiefly concerned with symbolically representing systems and manipulating those symbolic representations in order to solve interesting problems. An important concept in Algebra is the notion of inversion. An inverse operation as an operation that "undoes" the previous operation. For example, if we add 3 of something to 2 of another thing, then remove 3 of something, we are left with just 2. We can usually invert any addition operation with an approriate subtraction operation, a multiplication operation with a division operation, an exponetial operation with a logarithmic operation, and a trig operation with an inverse trig operation. [This writeup](https://www.cuemath.com/algebra/solving-an-equation/) does a good job of providing systematic approaches to solving equations based on the type of equation that one is trying to solve. 
-![]()
+![](img/operator.jpg)
 
 ## Calculus
 
