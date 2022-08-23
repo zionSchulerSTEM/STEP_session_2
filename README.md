@@ -78,4 +78,11 @@ In my opinion, 3blue1brown does a great job of providing a quality visual intuit
 
 
 ## References / Resources
-**Calculus** by Michael Spivak (the foundations section in particular)
+*Calculus* by Michael Spivak (the foundations section in particular) <br>
+*Linear Algebra, Multivariable Calculus, and Modern Applications* by Stanford Math Department <br>
+*Foundations of Geometry for University Students and High School Students* by R.A Sharipov <br>
+*Introduction to Algebra* by Richard Ruscyzk <br>
+[Paul's Online Math Notes](https://tutorial.math.lamar.edu/) <br>
+*The Princeton Companion to Mathematics* by Timothy Gowers <br>
+*How to Solve it* by George Polya <br>
+
