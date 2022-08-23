@@ -72,6 +72,6 @@ Algebra is chiefly concerned with symbolically representing systems and manipula
 
 Calculus is chiefly concerned with using the local behaviour of a function in order to obtain other properties of a function. We are typically trying to identify critical points such as minimum or maximum values, the relative growth rates of functions, and the behaviour of a function around a certain point. One of the key ideas of calculus, the fundamental theorem of calculus, tells us that that integration and differentiation are inverse processes. As one gets comfortable computing derivatives and integrals, they might observe that there are situations where one cannot just simply apply some derivative or integral rule and go ahead solving. Often times, one must perform a series of algebraic manipulations in order to get a problem into a solvable form, or must use some sort of concept in order to convert a derivative to an integral or an integral to a derivative, or even an integral to an integral.
 
-![]()
+![](img/fundamentalCalc.jpg)
 
 ## References / Resources
