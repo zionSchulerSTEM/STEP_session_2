@@ -54,14 +54,21 @@ Graphs are a means of visualizing functions. By looking at a graph, we can often
 
 ![](img/log.png)
 
-A graph is simply an intersection of perpendicular axes. A graph should ALMOST ALWAYS be labeled, unless it is SELF_EVIDENT to the audience (whom you are presenting the graph to) what the axes are. Typically, people like to use x as a variable and y=f(x) as the value of a function given a certain value. The x-axis is usually reserved for the independent variable, x, while the y-axis is usually reserved for the dependent variable, y=f(x). Hopefully you can see why the axes are named as such. 
+A graph is simply an intersection of perpendicular axes. A graph should ALMOST ALWAYS be labeled, unless it is SELF_EVIDENT to the audience (whom you are presenting the graph to) what the axes are. Typically, people like to use x as a variable and y=f(x) as the value of a function given a certain value. The x-axis is usually reserved for the independent variable, x, while the y-axis is usually reserved for the dependent variable, y=f(x). Hopefully, you can see why the axes are named as such. 
 
 ![](img/axes.png)
 
 ## Geometry
 
+Geometry is chiefly concerned with the points, lines, angles, distances, and the properties of n dimensional shapes. More often than not, the shape itself is not an actual object of interest as much as it is a model for something that we are interested in. For example, we can often use triangles in physics problems where we seek the trajectory of an object. The unit circle and all of the trig identities become important when analyzing circuits and other electromagnetic phenomena.  
+
 ## Algebra
 
+Algebra is chiefly concerned with symbolically representing systems and manipulating those symbolic representations in order to solve interesting problems. An important concept in Algebra is the notion of inversion. An inverse operation as an operation that "undoes" the previous operation. For example, if we add 3 of something to 2 of another thing, then remove 3 of something, we are left with just 2. We can usually invert any addition operation with an approriate subtraction operation, a multiplication operation with a division operation, an exponetial operation with a logarithmic operation, and a trig operation with an inverse trig operation. [This writeup](https://www.cuemath.com/algebra/solving-an-equation/) does a good job of providing systematic approaches to solving equations based on the type of equation that one is trying to solve. 
+![]()
+
 ## Calculus
+
+Calculus is chiefly concerned with using the local behaviour of a function in order to obtain other properties of a function. We are typically trying to identify critical points such as minimum or maximum values, the relative growth rates of functions, and the behaviour of a function around a certain point. One of the key ideas of calculus, the fundamental theorem of calculus, tells us that that integration and differentiation are inverse processes. As one gets comfortable computing derivatives and integrals, they might observe that there are situations where one cannot just simply apply some derivative or integral rule and go ahead solving. Often times, one must perform a series of algebraic manipulations in order to get a problem into a solvable form, or must use some sort of concept in order to convert a derivative to an integral or an integral to a derivative, or even an integral to an integral. 
 
 ## References / Resources
