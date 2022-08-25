@@ -1,7 +1,13 @@
 # STEP_session_2
 
 ## The big picture
-The goal of this session is to give you all a big picture view of what algebra and geometry, how it enables us to use concepts from calculus in interesting ways, and why it is a useful tool to keep sharp in your mathematical toolkit. Before diving into the focus of this session, we will take a look at some of the fundamental concepts that these topics build on. Many of these concepts will be familiar to you all, but I will present them here for the sake of completeness.
+The goal of this session is to give you all a big picture view of algebra and geometry, how it enables us to use concepts from calculus in interesting ways, and why it is a useful tool to keep sharp in your mathematical toolkit. Before diving into the focus of this session, we will take a look at some of the fundamental concepts that these topics build on. Many of these concepts will be familiar to you all, but I will present them here for the sake of completeness.
+
+Algebra can be thought of as the art of inverting variables and functions to a form that is more readily used for the problem at hand. Algebra takes a symbolic approach to modelling problems. 
+
+Geometry can be thought of as the art of describing objects based on their form or structure. Geometry takes a a very visual approach to solving problems. 
+
+Calculus can be thought of as the art of describing a function at a particular point and the art of describing how a function instantenously changes or accumulates over some period of time. This knowledge is useful in determining the rates of growth of certain functions as well as where the critical points of a function are at. 
 
 # Algebra, Geometry, Calculus
 
